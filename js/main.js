@@ -5,7 +5,7 @@ Functions:
 3. toggleCommentSection--------------Finished
 4. toggleCommentButton~~~~~~~~~~~~~~~Finished
 5. deleteChildElements---------------Finished
-6. addButtonListeners~~~~~~~~~~~~~~~~Finished?
+6. addButtonListeners~~~~~~~~~~~~~~~~Finished
 7. removeButtonListeners-------------Finished
 8. createComments~~~~~~~~~~~~~~~~~~~~Finished
 9. populateSelectMenu----------------Finished
@@ -18,9 +18,9 @@ Functions:
 16. displayPosts~~~~~~~~~~~~~~~~~~~~~Finsihed
 17. toggleComments-------------------Finsihed
 18. refreshPosts~~~~~~~~~~~~~~~~~~~~~Finsihed
-19. selectMenuChangeEventHandler-----
-20. initPage~~~~~~~~~~~~~~~~~~~~~~~~~Finished?
-21. initApp--------------------------Finished?
+19. selectMenuChangeEventHandler-----Finished
+20. initPage~~~~~~~~~~~~~~~~~~~~~~~~~Finished
+21. initApp--------------------------Finished
 */
 
 function createElemWithText(elementName = "p", textInfo = "", classInfo = "") {
