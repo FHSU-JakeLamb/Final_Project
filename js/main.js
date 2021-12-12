@@ -411,7 +411,7 @@ let refreshPosts = async(posts) => {
 
 let selectMenuChangeEventHandler = async(event) => {
 
-        //let userId = event ? .target ? .value || 1;
+        let userId = event?.target?.value || 1;
         let posts = await getUserPosts(userId);
         let refArr = await refreshPosts(posts);
 
